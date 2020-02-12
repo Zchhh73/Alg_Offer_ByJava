@@ -2,6 +2,7 @@
     * [006--从尾到头打印链表](/src/Linklist_Question/Solution006.java)
     * [018--删除链表中的重复节点](/src/Linklist_Question/Solution018.java)
     * [022--链表中倒数第k个节点](/src/Linklist_Question/Solution022.java)
+    * [023--链表中环的入口](/src/Linklist_Question/Solution023.java)
     * [024--反转链表](/src/Linklist_Question/Solution024.java)
     * [025--合并两个排序的链表](/src/Linklist_Question/Solution025.java)
     * [035--复杂链表的复制](/src/Linklist_Question/Solution035.java)
@@ -29,6 +30,26 @@
 
 ### [022--链表中倒数第k个节点](Solution022.java)
 &nbsp;&nbsp;定义两个指针，第一个指针从链表的头指针开始遍历向前走k-1步，第二个指针保持不动。从第k步开始，第二个指针开始从链表的头指针开始遍历。因为两个指针之间的距离为k-1，所以当第一个指针到达链表尾节点时，第二个指针正好指向倒数第k个节点。
+
+
+### [023--链表中环的入口](Solution023.java)
+&nbsp;&nbsp;
+
+
+### [024--反转链表](Solution024.java)
+&nbsp;&nbsp;
+
+
+### [025--合并两个排序的链表](Solution025.java)
+&nbsp;&nbsp;
+
+
+### [035--复杂链表的复制](Solution025.java)
+&nbsp;&nbsp;
+
+
+### [052--两个链表的第一个公共节点](Solution025.java)
+&nbsp;&nbsp;
 
 
 

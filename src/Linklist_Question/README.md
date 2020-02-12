@@ -1,5 +1,5 @@
 * [链表部分](#链表部分)
-    * [006--从尾到头打印链表](src/Linklist_Question/Solution006.java)
+    * [006--从尾到头打印链表](Alg_Offer_ByJava/src/Linklist_Question/Solution006.java)
     * 018--删除链表中的重复节点
     * 022--链表中倒数第k个接节点
     * 024--反转链表

@@ -9,7 +9,7 @@
 
 
 ## 目录（标题名称以题号--题目格式命名）
-* [链表](/src/Linklist_Question/README.md)
+* [链表](/src/Linklist_Question)
     * 006--从尾到头打印链表
     * 018--删除链表中的重复节点
     * 022--链表中倒数第k个接节点
@@ -18,7 +18,7 @@
     * 025--合并两个排序的链表    
     * 035--复杂链表的复制
     * 052--两个链表的第一个公共节点
-* [栈和队列](/src/StackQueue_Question/README.md)
+* [栈和队列](/src/StackQueue_Question)
     * 009--用两个栈实现队列
     * 030--包含min函数的栈
     * 031--栈的压入、弹出序列

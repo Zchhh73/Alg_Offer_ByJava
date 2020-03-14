@@ -12,8 +12,7 @@ public class Solution016 {
     public double Power(double base, int exponent) {
         double result = 1.0;
         double temp = 1.0;
-        if (base == 0.0 && exponent < 0) return 1;
-        if (base == 0) {
+        if (base == 0.0 && exponent < 0){
             return 0.0;
         } else if (exponent < 0) {
             for (int i = 1; i <= Math.abs(exponent); ++i) {
@@ -32,6 +31,6 @@ public class Solution016 {
 
     public static void main(String[] args) {
         Solution016 solution = new Solution016();
-        System.out.println(solution.Power(-3.0,2));
+        System.out.println(solution.Power(0.0,-2));
     }
 }
